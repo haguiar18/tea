@@ -1,0 +1,10 @@
+.banner {
+background-color: #f7fffc;
+    height: 50vh;
+    padding-top: 5vh;
+}
+
+.banner-img {
+    width: 400px;
+    height: 400px;
+}
